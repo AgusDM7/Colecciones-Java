@@ -56,7 +56,7 @@ Este repositorio presenta un conjunto de ejercicios prácticos desarrollados en 
 
 ## 📘 Conclusión y Aprendizaje
 
-Este proyecto permitió afianzar conocimientos fundamentales sobre **colecciones** y **Enums** en Java, elementos clave en el desarrollo de software orientado a objetos:
+Este proyecto permitie afianzar conocimientos fundamentales sobre **colecciones** y **Enums** en Java, elementos clave en el desarrollo de software orientado a objetos:
 
 - Implementación de búsqueda en listas utilizando distintas estrategias.
 - Aplicación de `equals()` para comparar objetos personalizados.
@@ -65,6 +65,56 @@ Este proyecto permitió afianzar conocimientos fundamentales sobre **colecciones
 - Representación visual del modelo con diagramas UML.
 
 Estas prácticas consolidan la capacidad de diseñar sistemas robustos, reutilizables y adaptables, fomentando la escritura de código limpio y bien estructurado.
+
+---
+
+
+## 📋 Resolucion de Cuestionario de Campus: Enums en Java
+
+A continuación, se presentan algunas preguntas de opción múltiple con sus respuestas justificadas, para reforzar los conceptos aprendidos:
+
+### ❓ Pregunta 1
+**¿Cuál de las siguientes opciones es incorrecta sobre los enum en Java?**
+
+✅ **Respuesta correcta:** a. *Pueden instanciarse con `new NivelEstudio()`.*
+
+🔎 **Aclaración:** Los enums en Java **no se pueden instanciar** con `new`. Java crea internamente una única instancia de cada valor del enum (singleton), por lo que su ciclo de vida está controlado por el compilador y la JVM.
+
+---
+
+### ❓ Pregunta 2
+**¿Cuál es la ventaja principal de usar enum en Java?**
+
+✅ **Respuesta correcta:** c. *Permiten definir valores constantes y evitar ambigüedades.*
+
+🔎 **Aclaración:** Los enums ayudan a representar de forma clara y segura un conjunto fijo de constantes con nombre, evitando errores comunes como el uso de cadenas de texto sueltas.
+
+---
+
+### ❓ Pregunta 3
+**¿Cómo se representa un enum en UML?**
+
+✅ **Respuesta correcta:** b. *Usando el estereotipo `<<enumeration>>`.*
+
+🔎 **Aclaración:** En UML, los enums se representan con el estereotipo `<<enumeration>>` sobre el nombre, seguido por una lista de sus valores.
+
+---
+
+### ❓ Pregunta 4
+**¿Qué hace el método `ordinal()` en un enum?**
+
+✅ **Respuesta correcta:** a. *Retorna la posición del valor dentro del enum.*
+
+🔎 **Aclaración:** `ordinal()` devuelve el índice de definición del valor dentro del enum, comenzando desde cero.
+
+---
+
+### ❓ Pregunta 5
+**¿Qué sucede si ejecutamos `NivelEstudio.valueOf("primario")`?**
+
+✅ **Respuesta correcta:** b. *Lanza una excepción porque los enum son sensibles a mayúsculas.*
+
+🔎 **Aclaración:** El método `valueOf()` distingue entre mayúsculas y minúsculas. Si se pasa una cadena que no coincide exactamente con el nombre del valor (por ejemplo, "primario" en lugar de "PRIMARIO"), se lanza una excepción `IllegalArgumentException`.
 
 ---
 
@@ -80,5 +130,3 @@ Estas prácticas consolidan la capacidad de diseñar sistemas robustos, reutiliz
 1. Clonar el repositorio:
    ```bash
    git clone [URL del repositorio]
-
-
