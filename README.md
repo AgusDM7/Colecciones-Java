@@ -5,15 +5,12 @@ Este repositorio presenta un conjunto de ejercicios prácticos desarrollados en 
 ---
 
 📚 **Tabla de Contenidos**
-- [✅ Temas Abordados](#-temas-abordados)
-  - [🔍 Buscar en una Colección de Objetos en Java](#1-🔍-buscar-en-una-colección-de-objetos-en-java)
-  - [🛠️ Enums en Java: Código y UML](#2-🛠️-enums-en-java-código-y-uml)
-  - [📦 Enums en Java: Métodos Útiles](#3-📦-enums-en-java-métodos-útiles)
-  - [🌐 Enums en Java: Atributos y Métodos](#4-🌐-enums-en-java-atributos-y-métodos)
-- [📘 Conclusión y Aprendizaje](#-conclusión-y-aprendizaje)
+- [🔍 Buscar en una Colección de Objetos en Java](#1-🔍-buscar-en-una-colección-de-objetos-en-java)
+- [🛠️ Enums en Java: Código y UML](#2-🛠️-enums-en-java-código-y-uml)
+- [📦 Enums en Java: Métodos Útiles](#3-📦-enums-en-java-métodos-útiles)
+- [🌐 Enums en Java: Atributos y Métodos](#4-🌐-enums-en-java-atributos-y-métodos)
 - [📄 Resolución del Cuestionario de Multiple Choice](#-resolución-del-cuestionario-de-multiple-choice)
-- [⚡ Requisitos](#-requisitos)
-- [▶️ Ejecución del Proyecto](#️-ejecución-del-proyecto)
+
 
 ---
 
