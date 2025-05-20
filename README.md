@@ -71,7 +71,7 @@ Estas prácticas consolidan la capacidad de diseñar sistemas robustos, reutiliz
 
 ## 📋 Resolucion de Cuestionario de Campus: Enums en Java
 
-A continuación, se presentan algunas preguntas de opción múltiple con sus respuestas justificadas, para reforzar los conceptos aprendidos:
+A continuación, se presentan las preguntas de opción múltiple subidas al campus con el objetivo de reforzar los conocimientos adquiridos de los videos y practicas anteriores:
 
 ### ❓ Pregunta 1
 **¿Cuál de las siguientes opciones es incorrecta sobre los enum en Java?**
