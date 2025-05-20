@@ -5,11 +5,11 @@ Este repositorio presenta un conjunto de ejercicios prácticos desarrollados en 
 ---
 
 📚 **Tabla de Contenidos**
-- [1. Buscar en una Colección de Objetos en Java](#1-buscar-en-una-colección-de-objetos-en-java)
-- [2. Enums en Java: Código y UML](#2-enums-en-java-código-y-uml)
-- [3. Enums en Java: Métodos Útiles](#3-enums-en-java-métodos-útiles)
-- [4. Enums en Java: Atributos y Métodos](#4-enums-en-java-atributos-y-métodos)
-- [Resolución del Cuestionario de Multiple Choice](#resolución-del-cuestionario-de-multiple-choice)
+- [1. Buscar en una Colección de Objetos en Java](#actividad1)
+- [2. Enums en Java: Código y UML](#actividad2)
+- [3. Enums en Java: Métodos Útiles](#actividad3)
+- [4. Enums en Java: Atributos y Métodos](#actividad4)
+- [Resolución del Cuestionario de Multiple Choice](#cuestionario)
 
 
 
@@ -19,6 +19,7 @@ Este repositorio presenta un conjunto de ejercicios prácticos desarrollados en 
 
 ## ✅ Temas Abordados
 
+<a name="actividad1"></a>
 ### 1. 🔍 Buscar en una Colección de Objetos en Java
 
 **Objetivo:** Implementar un sistema de gestión de autos que permita buscar vehículos por su patente utilizando una `ArrayList`.
@@ -30,6 +31,7 @@ Este repositorio presenta un conjunto de ejercicios prácticos desarrollados en 
 
 ---
 
+<a name="actividad2"></a>
 ### 2. 🛠️ Enums en Java: Código y UML
 
 **Objetivo:** Modelar personas y empresas según su nivel educativo utilizando un Enum `NivelEstudio`, junto con las clases `Persona` y `Empresa`.
@@ -46,6 +48,7 @@ Este repositorio presenta un conjunto de ejercicios prácticos desarrollados en 
 
 ---
 
+<a name="actividad3"></a>
 ### 3. 📦 Enums en Java: Métodos Útiles
 
 **Objetivo:** Explorar métodos fundamentales de los Enums.
@@ -57,6 +60,7 @@ Este repositorio presenta un conjunto de ejercicios prácticos desarrollados en 
 
 ---
 
+<a name="actividad4"></a>
 ### 4. 🌐 Enums en Java: Atributos y Métodos
 
 **Objetivo:** Definir un Enum `Continente` con atributos personalizados (habitantes y superficie), e implementar un método para calcular la **densidad poblacional**.
@@ -81,7 +85,7 @@ Estas prácticas consolidan la capacidad de diseñar sistemas robustos, reutiliz
 
 ---
 
-
+<a name="cuestionario"></a>
 ## 📋 Resolucion de Cuestionario de Campus: Enums en Java
 
 A continuación, se presentan las preguntas de opción múltiple subidas al campus con el objetivo de reforzar los conocimientos adquiridos de los videos y practicas anteriores:
