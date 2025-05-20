@@ -97,7 +97,6 @@ A continuación, se presentan las preguntas de opción múltiple subidas al camp
 
 🔎 **Aclaración:** Los enums en Java **no se pueden instanciar** con `new`. Java crea internamente una única instancia de cada valor del enum (singleton), por lo que su ciclo de vida está controlado por el compilador y la JVM.
 
----
 
 ### ❓ Pregunta 2
 **¿Cuál es la ventaja principal de usar enum en Java?**
@@ -106,7 +105,6 @@ A continuación, se presentan las preguntas de opción múltiple subidas al camp
 
 🔎 **Aclaración:** Los enums ayudan a representar de forma clara y segura un conjunto fijo de constantes con nombre, evitando errores comunes como el uso de cadenas de texto sueltas.
 
----
 
 ### ❓ Pregunta 3
 **¿Cómo se representa un enum en UML?**
@@ -115,7 +113,7 @@ A continuación, se presentan las preguntas de opción múltiple subidas al camp
 
 🔎 **Aclaración:** En UML, los enums se representan con el estereotipo `<<enumeration>>` sobre el nombre, seguido por una lista de sus valores.
 
----
+
 
 ### ❓ Pregunta 4
 **¿Qué hace el método `ordinal()` en un enum?**
@@ -124,7 +122,7 @@ A continuación, se presentan las preguntas de opción múltiple subidas al camp
 
 🔎 **Aclaración:** `ordinal()` devuelve el índice de definición del valor dentro del enum, comenzando desde cero.
 
----
+
 
 ### ❓ Pregunta 5
 **¿Qué sucede si ejecutamos `NivelEstudio.valueOf("primario")`?**
